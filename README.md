@@ -27,8 +27,8 @@ Operations supported on calculator
 ##### Initial Environment Setup 
 
 ```bash 
-git clone 
-cd 
+git clone https://github.com/Anurag-Nagpal/Flex-Bison-Arithmetic-Calculator.git
+cd Flex-Bison-Arithmetic-Calculator
 ```
 
 ##### Build 
@@ -49,4 +49,4 @@ gcc main.c lex.yy.c parser.tab.c -w
 
 ##### Output 
 
-![Output Image](C:\ClassWork\POPL\POPL\output.png)
+![Output Image](https://github.com/Anurag-Nagpal/Flex-Bison-Arithmetic-Calculator/blob/master/output.png)
