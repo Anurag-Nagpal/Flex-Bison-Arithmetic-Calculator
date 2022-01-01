@@ -1,7 +1,5 @@
 # Flex Bison Arithmetic Calculator 
 
----
-
 **Flex** - Flex is a tool that helps break the input into *tokens*.
 
 **Bison** - Bison is a tool that helps build the parser using the *tokens*  from the flex program
